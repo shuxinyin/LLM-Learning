@@ -1,0 +1,1 @@
+jupyter lab --notebook-dir=E:/ --preferred-dir D:/MyProject/TorchProject/NLP
