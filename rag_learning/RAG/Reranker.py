@@ -1,12 +1,9 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-'''
-@File    :   Reranker.py
-@Time    :   2024/05/15 14:27:42
-@Author  :   YueZhengMeng
-@Version :   1.0
-@Desc    :   None
-'''
+"""
+# File       : Reranker.py
+# Time       ：2024/10/15 23:25
+# Author     ：xyshu
+# Description：排序模型
+"""
 
 from typing import List
 import numpy as np

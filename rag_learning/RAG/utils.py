@@ -1,12 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-'''
-@File    :   utils.py
-@Time    :   2024/02/11 09:52:26
-@Author  :   不要葱姜蒜
-@Version :   1.0
-@Desc    :   None
-'''
+"""
+# File       : utils.py
+# Time       ：2024/10/15 23:25
+# Author     ：xyshu
+# Description：工具函数
+"""
+
 
 import os
 from typing import Dict, List, Optional, Tuple, Union
